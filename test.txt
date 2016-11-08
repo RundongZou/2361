@@ -3,3 +3,4 @@ New Soft
 Git track changes aaa.
 stupid
 quick
+Creating a new branch is quick & simple. 
